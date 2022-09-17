@@ -9,7 +9,7 @@ Aplicação desenvolvida em grupo como último projeto do curso Santander Coders
 <ul>
   <li>Sales Api: https://github.com/paulaclustosa/sales</li>
   <li>Product Api: https://github.com/nori-marcos/SantanderCoders-Product</li>
-  <li>User Api: https://github.com/p-olive/user</li>
+  <li>User Api: https://github.com/pauloerico/user</li>
   <li>Eureka server: https://github.com/samuelnfavero/eureka-server-cart-api</li>
 </ul>
 
@@ -33,7 +33,7 @@ Aplicação desenvolvida em grupo como último projeto do curso Santander Coders
   <li>Marisa dos Santos Sales - https://github.com/marisasales</li>
   <li>Marcos Noriyuki Miyata - https://github.com/nori-marcos</li>
   <li>Paula Carolina Lacerda Lustosa - https://github.com/paulaclustosa</li>
-  <li>Paulo Érico Carvalho Santos de Oliveira - https://github.com/p-olive</li>
+  <li>Paulo Érico Carvalho Santos de Oliveira - https://github.com/pauloerico</li>
   <li>Samuel Nascimento Fávero - https://github.com/samuelnfavero</li>
 </ul>
 
